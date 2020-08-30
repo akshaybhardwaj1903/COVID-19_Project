@@ -1,7 +1,2 @@
-# COVID-19_Project
-
-1.	Pre-Processed and merged COVID-19 dataset published by John Hopkins University with the dataset consisting of various life factors score
-
-2.	Identified the correlation between the two datasets
-
-3.	Visualized results using Seaborn
+1.	Pre-processed and merged two different datasets to measure the relationship between the spread of the Coronavirus and happiness index of that country
+2.	Analyzed the COVID-19 dataset using linear regression, visualized the correlation among the datasets using seaborn
